@@ -39,7 +39,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Lupin-lion/LUPIN-MD)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Lupin-lion/LUPIN-MD&template=https://github.com/Lupin-lion/LUPIN-MD.git)***
 
 <br>
 
