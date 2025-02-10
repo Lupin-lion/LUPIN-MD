@@ -1,6 +1,6 @@
 
  {
-  "name": "ALPHA-MD",
+  "name": "LUPIN-MD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,7 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Alpha-Md",
+    "Lupin-Md",
     "whatsapp",
     "whatsapp-bot",
     "keithkeizzah"
