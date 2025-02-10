@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐀𝐋𝐏𝐇𝐀-𝐌𝐃 </h1>
+<h1 align="center"> LUPIN-𝐌𝐃 </h1>
 
  
 <h1 align="center"> Surviving is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
@@ -7,7 +7,7 @@
 
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/967c663a5978c545f78d6.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 
